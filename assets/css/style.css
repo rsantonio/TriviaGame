@@ -1,0 +1,46 @@
+body {
+	background: url("../images/LOTR.jpg");
+	background-repeat: repeat;
+
+}
+
+* {
+	box-sizing: border-box;
+}
+
+.jumbotron-fluid {
+	background: url("../images/middleearth.jpg");
+	background-repeat: repeat;
+}
+
+.display1 {
+	text-align: center;
+	font-size: 90px;
+	font-family: "Kaushan Script", cursive;
+}
+.display2 {
+	text-align: center;
+	font-size: 70px;
+	font-family: "Kaushan Script", cursive;
+
+}
+
+.container {
+	color: white;
+	
+}
+
+.content {
+	border: 2px solid white;
+	text-align: center;
+}
+.footer {
+	padding: 30px 0;
+	font-size: 20px;
+	color: #ffffff;
+	color: #cccccc;
+	height: 110px;
+	text-align: center;
+	font-family: 'Georgia', Times, serif;
+	vertical-align: center;
+}
